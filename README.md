@@ -40,18 +40,12 @@ This repository contains a Python script for calculating the mutual information 
 ## Optimization Details
 
 - The script reads and transposes the z-score matrix only once to minimize file I/O operations.
-- Unnecessary reshaping and conversions of the data are removed to enhance performance.
 - The use of pandas and scikit-learn ensures efficient handling and computation of the data.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the (LICENSE) file for details.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Contact
-
-For any questions or suggestions, please contact [yourname](mailto:youremail@example.com).
 
